@@ -1,0 +1,8 @@
+1,Bulbasaur,120,130
+2,Squirtle,130,120
+3,Rattata,110,140
+4,Pickachu,100,150
+5,Jigglypuff,90,160
+6,Jynx,50,200
+7,Ditto,220,30
+8,Seaking,150,100

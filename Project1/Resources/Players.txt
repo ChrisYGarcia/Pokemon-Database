@@ -1,0 +1,9 @@
+Bradley,1,pacprof,Chicago,TRUE
+Clayton,2,pokechamp,Chicago,FALSE
+Tina,3,pikachu,Chicago,TRUE
+James,4,ilikethis,Kansas City,TRUE
+Timothy,5,noname,Tampa Bay,FALSE
+Gerald,6,someguy,Las Vegas,TRUE
+Alex,7,nomoreideas,Seatlle,TRUE
+Bill,8,seriouslynone,Kansas City,FALSE
+Evan,9,ihatepokemon,Wheaton,FALSE
